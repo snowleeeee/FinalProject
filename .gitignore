@@ -1,4 +1,7 @@
 target/
+target
+.settings/
+.settings
 pom.xml.tag
 pom.xml.releaseBackup
 pom.xml.versionsBackup
@@ -11,3 +14,5 @@ buildNumber.properties
 .mvn/wrapper/maven-wrapper.jar
 Servers/
 .metadata/
+.classpath
+.project
